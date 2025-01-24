@@ -12,7 +12,7 @@
 
 This data analysis project aims analyze an ecommerce website with different regions and demographics in mind. Also the identification of the delivery status and how it affects revenue over time.
 
-![bar plot](https://github.com/Irene-arch/Documenting_Example/assets/56026296/5ebedeb8-65e4-4f09-a2a5-0699119f5ff7)
+![Dashboard](https://github.com/Successenyi/Ecommerce-Analysis/images/Ecommerce dashbord.png)
 
 
 ### Data Sources
